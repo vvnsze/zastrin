@@ -1,0 +1,19 @@
+{
+  "name": "chapter1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ganache-cli": "^6.1.8",
+    "http-server": "^0.11.1",
+    "solc": "^0.4.25",
+    "web3": "0.20.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
